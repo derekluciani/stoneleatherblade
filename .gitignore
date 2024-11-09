@@ -1,0 +1,16 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# macOS
+.DS_Store
+
+# others
+/bin
+/gh-cli
+/dist
+/site
+/changelog.md
+.vscode
